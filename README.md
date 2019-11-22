@@ -1,5 +1,4 @@
 # Smarter-Bilderrahmen
-Workshopbeschreibung
 
 Dies ist das Repository zum Workshop "Smarter Bilderrahmen", der von der AG Kognitive Neuroinformatikan der Universität Bremen, entwickelt wurde.
 
